@@ -1,6 +1,7 @@
 # cat_dog_classifier
 
-Hello, FIrst AI
+Hello, First AI project. 
+Using 1600 Photos of Cat and Dog. 
 
 ## Getting Started
 
